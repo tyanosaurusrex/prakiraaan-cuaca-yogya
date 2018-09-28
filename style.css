@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Unifont";
+  src: url("unifont-11.0.02.ttf")
+}
+
+html {
+  font-family: "Unifont", monospace
+}
+body {
+  max-width: 1200px;
+  margin: auto;
+}
+.column {
+  width: 30%;
+  float: left;
+}
